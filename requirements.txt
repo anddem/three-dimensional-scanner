@@ -1,0 +1,7 @@
+-i https://pypi.org/simple
+numpy==1.22.3
+pillow==9.1.0
+pyqt5==5.15.6
+pyqt5-qt5==5.15.2
+pyqt5-sip==12.10.1 ; python_version >= '3.7'
+structlog==21.5.0
